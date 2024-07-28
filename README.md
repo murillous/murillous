@@ -20,6 +20,7 @@
 
 ### Eu estou estudando... 🧩
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
 ### GitHub Stats ⚡
 <div>
