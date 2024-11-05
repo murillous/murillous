@@ -2,11 +2,11 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor Front-End
+💻 Eu sou DevOps
 
 🎓 Eu estudo na UEMA cursando Engenharia da Computação
 
-🔎Sou curioso sobre Computação em Nuvem e Redes
+🔎Sou Entusiasta sobre Sistemas Embarcados e IoT
 
 **Tecnologias e Ferramentas**
 
