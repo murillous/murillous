@@ -6,7 +6,7 @@
 
 🎓 Eu estudo na UEMA cursando Engenharia da Computação
 
-🔎Sou Entusiasta sobre Sistemas Embarcados e IoT
+🔎Sou Entusiasta sobre Cloud e IoT
 
 **Tecnologias e Ferramentas**
 
