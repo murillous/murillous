@@ -2,11 +2,9 @@
 
 ### Sobre mim
 
-💻 Eu sou DevOps
+💻 Eu sou desenvolvedor backend
 
-🎓 Eu estudo na UEMA cursando Engenharia da Computação
-
-🔎Sou Entusiasta sobre Cloud e IoT
+🎓 Eu estou cursando Engenharia da Computação na UEMA
 
 **Tecnologias e Ferramentas**
 
