@@ -2,9 +2,9 @@
 
 ### Sobre mim
 
-💻 Eu sou desenvolvedor backend
+💻 Sou desenvolvedor fullstack
 
-🎓 Eu estou cursando Engenharia da Computação na UEMA
+🎓 Graduando em Engenharia da Computação na UEMA
 
 **Tecnologias e Ferramentas**
 
@@ -15,10 +15,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Eu estou estudando... 🧩
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+
 
 ### GitHub Stats ⚡
 <div>
